@@ -1,0 +1,27 @@
+{
+  "name": "express-instant-example",
+  "version": "1.0.0",
+  "description": "This is an instant Express app for use when you just want an Express app to work right now.",
+  "main": "express-example.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "log4js": "^4.3.1",
+    "morgan": "^1.9.1",
+    "util": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbdavidson7/express-instant-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelbdavidson7/express-instant-example/issues"
+  },
+  "homepage": "https://github.com/michaelbdavidson7/express-instant-example#readme"
+}
